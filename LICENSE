@@ -1,3 +1,14 @@
+This software itself is `GPL` licensed, it uses a set of other tools
+internally for which other licenses apply.
+The packaged fat-jar of this software, e.g., also contains
+
+1. [pdfbox](https://pdfbox.apache.org/) from Apache, which is under the
+   [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0).
+   
+2. [itextpdf](http://itextpdf.com/) is under the Affero General Public
+   License ([AGPL 3](http://itextpdf.com/agpl))
+
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
