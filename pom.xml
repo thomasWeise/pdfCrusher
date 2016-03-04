@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>thomasWeise</groupId>
-	<artifactId>thomasWeise.pdfCrusher</artifactId>
+	<artifactId>pdfCrusher</artifactId>
 	<version>0.8.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>thomasWeise.pdfCrusher</name>
+	<name>pdfCrusher</name>
 	<description>The pdf crusher makes your pdfs smaller.</description>
 
 	<url>http://www.it-weise.de/</url>
@@ -50,14 +50,14 @@
 	</licenses>
 
 	<issueManagement>
-		<url>https://github.com/thomasWeise/thomasWeise.pdfCrusher/issues</url>
+		<url>https://github.com/thomasWeise/pdfCrusher/issues</url>
 		<system>GitHub</system>
 	</issueManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:thomasWeise/thomasWeise.pdfCrusher.git</connection>
-		<developerConnection>scm:git:git@github.com:thomasWeise/thomasWeise.pdfCrusher.git</developerConnection>
-		<url>git@github.com:thomasWeise/thomasWeise.pdfCrusher.git</url>
+		<connection>scm:git:git@github.com:thomasWeise/pdfCrusher.git</connection>
+		<developerConnection>scm:git:git@github.com:thomasWeise/pdfCrusher.git</developerConnection>
+		<url>git@github.com:thomasWeise/pdfCrusher.git</url>
 	</scm>
 
 	<inceptionYear>2016</inceptionYear>
