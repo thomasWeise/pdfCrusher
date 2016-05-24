@@ -24,7 +24,6 @@ public class PdfCheckerJobBuilder
   /** {@inheritDoc} */
   @Override
   public final PdfCheckerJob create() {
-    this.validate();
     return this.m_tool.create(this);
   }
 

@@ -78,11 +78,4 @@ public abstract class FileJobBuilder<FJ extends FileJob, FJB extends FileJobBuil
   protected final Path getSourceFile() {
     return this.m_path;
   }
-
-  /** {@inheritDoc} */
-  @Override
-  protected void validate() {
-    super.validate();
-    FileJobBuilder._checkPath(this.m_path);
-  }
 }

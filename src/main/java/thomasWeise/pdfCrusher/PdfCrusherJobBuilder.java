@@ -14,7 +14,6 @@ public class PdfCrusherJobBuilder
   /** {@inheritDoc} */
   @Override
   public final PdfCrusherJob create() {
-    this.validate();
     return new PdfCrusherJob(this);
   }
 }
